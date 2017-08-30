@@ -1,0 +1,2 @@
+Hi this is rudra.
+This is my second git text file.
