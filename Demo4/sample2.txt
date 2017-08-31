@@ -1,0 +1,24 @@
+  
+  simple java program:
+  --------------------
+  
+    Public class Test {
+	
+	  public void m1(){
+	  
+	  System.out.println(" Hi You");
+	  }
+	  
+	  public void m2() {
+	  
+	  System.out.println("Hello I am Fine");
+	  }
+	  public static void main(String[] args){
+	  
+	  Test t = new Test();
+	       t.m1();
+		   t.m2();
+		   
+		   }
+		   
+		   }
